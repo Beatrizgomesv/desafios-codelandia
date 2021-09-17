@@ -43,6 +43,17 @@ body {
   padding: 10px 50px;
 }
 
+form {
+  position: relative;
+}
+
+#search-icon {
+  position: absolute;
+  left: 17px;
+  top: 17px;
+  color: #ffffff;
+}
+
 .header-form-container input::placeholder {
   color: #ffffff;
 }
